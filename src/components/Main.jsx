@@ -7,7 +7,7 @@ import Search from "./Search";
 function Main() {
   // console.log(data);
   const [result, setResult] = useState(data);
-  
+  // console.log(result) 
 const fetchSearch = (e) => {
     let search= e.target.value;
     let items
@@ -44,4 +44,4 @@ const fetchSearch = (e) => {
 
 export default Main;
 
-// {conditon?<TrueCase>:<FalseCase>}
+// {conditon?TrueCase:<FalseCase}

@@ -6,5 +6,5 @@ function Search({handleSearch}){
     onChange={handleSearch}/>
    </div>
 }
-// function props
+// function as props
 export default Search

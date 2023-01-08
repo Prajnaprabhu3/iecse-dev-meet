@@ -13,6 +13,6 @@ export default App;
 
 /*
 mapping through list
-consitional rendering
+conditional rendering
 states
 props */
